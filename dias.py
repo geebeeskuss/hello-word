@@ -16,7 +16,7 @@ while True:
         player2["ставка"] = player2["сумма"]
     player2["ставка"] = player1["ставка"]
 
-    if player1["ставка"] <> player2["ставка"] or player2["ставка"] <> player1["ставка"]:
+    if player1["ставка"] != player2["ставка"]:
         print("Ставки должны быть одинаковыми")
     break
     

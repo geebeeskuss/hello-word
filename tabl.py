@@ -21,3 +21,5 @@ print(poem.title())
 print(poem.count("скачем"))
 print(poem.replace("скачем","плящем"))
 print(poem)
+
+# uuwwuu sweet 
